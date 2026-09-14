@@ -14,3 +14,12 @@ El horario definitivo y el profesorado pendiente se incorporarán cuando estén 
 Para usarla sin conexión, descarga el repositorio, descomprime los archivos y abre `index.html`. Conserva todos los archivos juntos. En las presentaciones, utiliza las flechas de navegación; en la presentación del curso, derecha e izquierda cambian de apartado y arriba y abajo recorren sus diapositivas.
 
 Tutor: Diego Cano Sibón · dcansib483@g.educaand.es
+
+## Organización
+
+- Páginas HTML en la raíz para mantener enlaces sencillos.
+- assets/css/: hoja de estilos compartida.
+- assets/images/: portadas de los grupos y caricatura de Programación.
+
+La presentación del curso conserva sus imágenes incorporadas para poder abrirse también como archivo independiente.
+
